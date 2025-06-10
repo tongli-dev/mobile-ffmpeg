@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author           = { 'tongli' => 'you@example.com' }
 
   s.platform     = :ios, '9.3'
-  s.source       = { :http => 'https://github.com/tongli-dev/mobile-ffmpeg/releases/download/v4.4.LTS/mobile-ffmpeg-4.4.LTS.zip' }
+  s.source       = { :http => 'https://github.com/tanersener/mobile-ffmpeg/archive/refs/tags/v4.4.LTS.zip' }
   s.vendored_frameworks = 'mobile-ffmpeg-4.4.LTS/ios/mobileffmpeg.xcframework'
 
   s.pod_target_xcconfig = {
