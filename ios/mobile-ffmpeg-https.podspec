@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'mobile-ffmpeg-https'
-  s.version          = '4.4.LTS'
+  s.version          = '4.4'
   s.summary          = 'Forked mobile-ffmpeg-https for Flutter integration'
   s.description      = 'Forked build of mobile-ffmpeg-https for use with flutter_ffmpeg.'
   s.homepage         = 'https://github.com/tongli-dev/mobile-ffmpeg'
